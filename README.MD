@@ -1,6 +1,6 @@
-Install the latest node
-save the repo example code as cors.js (I'll paste it below)
-do npm install cors-anywhere
+- Install the latest node
+- save the repo example code as cors.js (I'll paste it below)
+- do npm install cors-anywhere
 
 ~~~
 // Listen on a specific host via the HOST environment variable
